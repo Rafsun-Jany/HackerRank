@@ -1,1 +1,2 @@
 # HackerRank
+In this file I have uploaded the solutions of HackerRank problems that I have solved. 
